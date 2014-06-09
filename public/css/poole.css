@@ -232,8 +232,9 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.18rem;
   font-weight: 300;
+  font-family: "Comic Sans MS";
 }
 
 
